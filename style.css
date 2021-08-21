@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+}
+img {
+  width: 50%;
+  margin-left: 30%;
+}
+/* for best price */
+.calclulation1 {
+  margin-left: 200px;
+}
+/* for Extra memory cost */
+.calclulation2 {
+  margin-left: 117px;
+}
+/* for extra storage  */
+.calclulation3 {
+  margin-left: 150px;
+}
+/* for delivery charge */
+.calclulation4 {
+  margin-left: 230px;
+}
+/* for totall price */
+.calclulation5 {
+  margin-left: 170px;
+}
+.hr {
+  background-color: black;
+  font-weight: 900;
+  height: 3px;
+}
+/* for pomo code  */
+#CoponCode {
+  margin-top: 30px;
+}
+.pomocode {
+  margin-top: 60px;
+  border-top: 2px solid black;
+  text-align: center;
+}
